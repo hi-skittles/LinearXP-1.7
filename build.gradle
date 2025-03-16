@@ -36,7 +36,7 @@ allprojects {
 
 apply plugin: 'forge'
 
-version = "1.7.10-1.0.3"
+version = "1.7.10-1.0.4"
 group = "net.bidibits.linearxp" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
 archivesBaseName = "LinearXP"
 targetCompatibility = sourceCompatibility = JavaVersion.VERSION_1_8
