@@ -1,0 +1,16 @@
+[
+{
+  "modid": "linearxp",
+  "name": "LinearXP",
+  "description": "Changes the bad RPG style exponential XP curve to a linear one.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://bsky.app/profile/cat.bidibits.net",
+  "updateUrl": "https://bsky.app/profile/cat.bidibits.net",
+  "authorList": ["bidibits"],
+  "credits": "MCModding.ru for creating a guide on deprecated 1.7.10 modding",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
